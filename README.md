@@ -12,6 +12,20 @@ programáveis. Contempla conhecimentos sobre protocolos em redes industriais, in
 Avaliar recursos e processos com CLP, bem como suas implicações; Correlacionar as propriedades e características das máquinas e equipamentos controlados por CLP, bem como as suas
 aplicações. Conhecer e interpretar equipamentos. Identificar e trabalhar com redes de comunicação industrial.
 
+# Lorena, hoje 08 de Agosto,
+## vamos revisar alguns conceitos, apresentando alguns slides já disponibilizados e considerando os conceitos a seguir!
+
+## Controladores Lógicos Programáveis (CLP)
+
+## Linguagem de programação para os CLP
+
+A IEC 61131-3 é um padrão internacional que estabelece diretrizes para as linguagens de programação usadas em controladores.
+
+Este padrão especifica cinco linguagens de programação que podem ser aplicadas a qualquer Controlador Lógico Programável (CLP), independentemente de seu fabricante.
+
+A IEC 61131 é uma norma detalhada e organizada em várias seções, cada uma tratando de diferentes aspectos dos controladores programáveis.
+
+
 
 
 # Simuladores Online
@@ -67,10 +81,12 @@ No campo da programação de CLPs, ramificações e links em diagramas ladder s�
 
 ## Links de auxilio
 
+IA para códigos microcontroladores Atmega e placa ESP32
 https://chatgpt.com/g/g-TFvuISQH5-professor-dos-embarcados
 
 https://chatgpt.com/g/g-thK1Ja9RM-referencias-de-artigos-normas-abnt-nbr
 
+Norma IEC-61131-3: https://plcopen.org/sites/default/files/downloads/intro_iec_march04_portuguese.pdf
 
 
 
