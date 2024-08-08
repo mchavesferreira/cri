@@ -98,9 +98,9 @@ No campo da programação de CLPs, ramificações e links em diagramas ladder s�
 
 Microcontroladores Atmega e placa ESP32
 
-<img src=/img/logogpt.png> https://chatgpt.com/g/g-TFvuISQH5-professor-dos-embarcados
+<img src=https://github.com/mchavesferreira/img/blob/main/logogpt.png> https://chatgpt.com/g/g-TFvuISQH5-professor-dos-embarcados
 
-<img src=/img/logogpt.png> https://chatgpt.com/g/g-thK1Ja9RM-referencias-de-artigos-normas-abnt-nbr
+<img src=https://github.com/mchavesferreira/img/blob/main/logogpt.png>  https://chatgpt.com/g/g-thK1Ja9RM-referencias-de-artigos-normas-abnt-nbr
 
 Norma IEC-61131-3: https://plcopen.org/sites/default/files/downloads/intro_iec_march04_portuguese.pdf
 
