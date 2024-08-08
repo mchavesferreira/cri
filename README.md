@@ -25,15 +25,29 @@ Este padrão especifica cinco linguagens de programação que podem ser aplicada
 
 A IEC 61131 é uma norma detalhada e organizada em várias seções, cada uma tratando de diferentes aspectos dos controladores programáveis.
 
+As linguagens consistem de 2 textuais:
+
+- Instruction List (IL) / Lista de Instruções
+- Structured Text (ST) / Texto Estruturado
+
+3 gráficas:
+
+- Ladder Diagram (LD)  / Diagrama Ladder
+- Function Block Diagram (FBD) / Diagrama de Blocos Funcionais
+- Sequential Function Chart (SFC) / Sequenciamento Gráfico de Funções
 
 
+  
+![linguagensplc](https://github.com/user-attachments/assets/235dc890-2fb2-4f0f-932c-c609b343c521)
 
-# Simuladores Online
+![sfc](https://github.com/user-attachments/assets/266578d0-4179-4e64-8fae-10e7609e5bec)
+  
 
-PLC Simulator Online
+# Linguagem LADDER
 
-https://app.plcsimulator.online/
+Vamos iniciar com a linguagem Ladder e utilizar simuladores online para a prática com esta linguagem:
 
+PLC Simulator Online  https://app.plcsimulator.online/
 
 ## Ramificações e Links em Diagramas Ladder
 
@@ -43,7 +57,8 @@ Diagramas Ladder são uma parte essencial da programação de controladores lóg
 
 Conforme definido na IEC-61131-3, os elementos de link podem ser horizontais ou verticais, com estados denotados como LIGADO ou DESLIGADO. Os elementos de link são integrais na transmissão de estados e são sinônimos de fluxo de energia, que é representado pela cor verde durante a simulação.
 
-<img src=https://plcsimulator.online/images/rung-with-comments.png>
+![rung-with-comments](https://github.com/user-attachments/assets/b53f84f9-0d37-4cc2-8e76-e86712ec65fd)
+
 
 ### Elementos de Link Horizontais:
 - Representados por uma linha horizontal.
