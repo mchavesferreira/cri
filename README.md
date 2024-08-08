@@ -63,3 +63,14 @@ Ramificações e links permitem que a lógica de controle complexa seja represen
 ## Conclusão
 
 No campo da programação de CLPs, ramificações e links em diagramas ladder são fundamentais. Elementos de link horizontais transmitem estados e links verticais permitem a ramificação, permitindo que a lógica complexa seja organizada e visualizada. Essa abordagem proporciona a capacidade de gerenciar múltiplas condições de uma vez, oferecendo flexibilidade e eficiência no design de sistemas de controle. Seja em ramificações paralelas ou condições aninhadas, o uso de ramificações e links simplifica a compreensão de circuitos complexos. A combinação desses elementos resulta em uma representação coerente e acessível, tornando a tarefa de projetar e solucionar problemas em controles elétricos mais intuitiva e eficaz.
+
+
+## Links de auxilio
+
+https://chatgpt.com/g/g-TFvuISQH5-professor-dos-embarcados
+
+https://chatgpt.com/g/g-thK1Ja9RM-referencias-de-artigos-normas-abnt-nbr
+
+
+
+
