@@ -1,7 +1,7 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
 # Bom dia Lorena, hoje 158 de Agosto,
-## Você está feliz??? Por favor apague a lousa <img src=https://wprock.fr/ezoimgfmt/assets.wprock.fr/emoji/joypixels/512/1f64f.png?ezimgfmt=rs:140x140/rscb25/ng:webp/ngcb25>
+## Você está feliz??? Por favor apague a lousa 🙏
 
 ### Código: CRI
 
