@@ -1,5 +1,8 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
+# Bom dia Lorena, hoje 158 de Agosto,
+## Você está feliz??? Por favor apague a lousa
+
 ### Código: CRI
 
 ## EMENTA:
@@ -12,8 +15,7 @@ programáveis. Contempla conhecimentos sobre protocolos em redes industriais, in
 Avaliar recursos e processos com CLP, bem como suas implicações; Correlacionar as propriedades e características das máquinas e equipamentos controlados por CLP, bem como as suas
 aplicações. Conhecer e interpretar equipamentos. Identificar e trabalhar com redes de comunicação industrial.
 
-# Lorena, hoje 08 de Agosto,
-## vamos revisar alguns conceitos, apresentando alguns slides já disponibilizados e considerando os conceitos a seguir!
+
 
 ## Controladores Lógicos Programáveis (CLP)
 
@@ -25,11 +27,11 @@ Os CLPs rapidamente se tornaram populares devido às suas várias vantagens. Pri
 
 Outra vantagem significativa é a capacidade de integração e expansão. CLPs podem ser facilmente conectados a outros sistemas e dispositivos, facilitando a implementação de soluções de automação complexas e escaláveis. A flexibilidade dos CLPs permite o uso de várias linguagens de programação padronizadas pela norma IEC 61131-3, tornando-os acessíveis a uma ampla gama de aplicações e profissionais.
 
-<img src=https://raw.githubusercontent.com/mchavesferreira/scri/main/img/fabricaplc.jpg><BR>Ilustração de uma fabrica com PLC
+<img src=https://raw.githubusercontent.com/mchavesferreira/cri/main/img/fabricaplc.jpg><BR>Ilustração de uma fabrica com PLC
 
 Hoje, os CLPs continuam a ser um componente central na automação industrial, proporcionando controle eficiente e confiável para processos de manufatura, distribuição e muitos outros setores.
 
-<img src=https://raw.githubusercontent.com/mchavesferreira/scri/main/img/fabrica40.jpg><BR>Ilustração de uma fabrica 4.0
+<img src=https://raw.githubusercontent.com/mchavesferreira/cri/main/img/fabrica40.jpg><BR>Ilustração de uma fabrica 4.0
 
 
 ## Linguagem de programação para os CLP
