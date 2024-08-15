@@ -1,6 +1,6 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
-# Bom dia Lorena, hoje 158 de Agosto,
+# Bom dia Lorena, hoje, 15 de Agosto.
 ## Você está feliz??? Por favor apague a lousa 🙏
 
 ### Código: CRI
