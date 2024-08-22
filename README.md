@@ -1,7 +1,10 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
-# Bom dia Lorena, hoje, 15 de Agosto.
-## Você está feliz??? Por favor apague a lousa 🙏, mas você explora o Arthur.
+# Bom dia Lorena, hoje, 22 de Agosto.
+## Espero que esteja bem!!! Vamos utilizar o simulador com exemplos. Copie o resultado no CADERNO!!!
+
+https://app.plcsimulator.online/
+
 
 ### Código: CRI
 
