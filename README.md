@@ -9,9 +9,21 @@ Vamos revisa a utilização de temporizador, conhecendo os modos de operação n
 
 <a href=https://github.com/mchavesferreira/cri/blob/main/Apostila%20CLP140IF%20vs2.5br.pdf>Manual CLP</a>
 
-Temporizador p. 14
+## Click02 - WEG
 
-Contador p. 19
+### Variáveis Digitais
+<img src=img/variaveis_digitais.png>
+
+### Variáveis Analógicas
+<img src=img/variaveis_analogicas.png>
+
+### Variáveis de Aplicação
+<img src=img/instrucoes_aplicacao.png>
+
+
+### Temporizador p. 14
+
+### Contador p. 19
 
 https://app.plcsimulator.online/
 
