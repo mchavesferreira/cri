@@ -5,6 +5,14 @@
 
 Vamos revisa a utilização de temporizador, conhecendo os modos de operação no Clic02 na bancada, continue copiando o programa exemplo CADERNO!!!
 
+## Apostila bancada
+
+<a href=https://github.com/mchavesferreira/cri/blob/main/Apostila%20CLP140IF%20vs2.5br.pdf>Manual CLP</a>
+
+Temporizador p. 14
+
+Contador p. 19
+
 https://app.plcsimulator.online/
 
 
