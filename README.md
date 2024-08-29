@@ -1,12 +1,15 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
-# Bom dia Lorena, hoje, 22 de Agosto.
-## Espero que esteja bem!!! Vamos utilizar o simulador com exemplos. Copie o resultado no CADERNO!!!
+# Bom dia Lorena, hoje, 29 de Agosto.
+## Espero que esteja bem!!! 
+
+Vamos revisa a utilização de temporizador, conhecendo os modos de operação no Clic02, também vamos conhecer o módulo contador, utilizando em um exemplo.
+Utilize o simulador e Copie o resultado no CADERNO!!!
 
 https://app.plcsimulator.online/
 
 
-### Código: CRI
+
 
 ## EMENTA:
 
