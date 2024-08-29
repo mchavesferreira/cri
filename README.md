@@ -3,8 +3,7 @@
 # Bom dia Lorena, hoje, 29 de Agosto.
 ## Espero que esteja bem!!! 
 
-Vamos revisa a utilização de temporizador, conhecendo os modos de operação no Clic02, também vamos conhecer o módulo contador, utilizando em um exemplo.
-Utilize o simulador e Copie o resultado no CADERNO!!!
+Vamos revisa a utilização de temporizador, conhecendo os modos de operação no Clic02 na bancada, continue copiando o programa exemplo CADERNO!!!
 
 https://app.plcsimulator.online/
 
