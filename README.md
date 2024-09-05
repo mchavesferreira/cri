@@ -4,7 +4,7 @@
 
 ## Hoje, 05 de setembro, espero que você esteja se sentindo melhor. Desejo que seu dia seja leve e tranquilo, e que as coisas estejam caminhando de forma positiva para você.
 
-## Temos 4 aulas aulas hoje, paciência para nós. Em grupo, elabore, simule e monte na bancada este exemplo de projeto com CLP. Continue copiando o programa exemplo CADERNO!!!
+## Temos 4 aulas aulas hoje, paciência para nós. Em grupo, elabore, simule e monte na bancada este <a href=https://github.com/mchavesferreira/cri/blob/main/atividade_ladder.pdf>exemplo de projeto</a> com CLP. Continue copiando o programa exemplo CADERNO!!!
 
 ## Materiais
 
