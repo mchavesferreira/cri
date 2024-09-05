@@ -1,13 +1,16 @@
 # Controladores Lógicos Programáveis e Redes Industriais
 
-# Bom dia Lorena, hoje, 29 de Agosto.
-## Espero que esteja bem!!! 
+# Bom dia, Lorena.
 
-Vamos revisa a utilização de temporizador, conhecendo os modos de operação no Clic02 na bancada, continue copiando o programa exemplo CADERNO!!!
+## Hoje, 05 de setembro, espero que você esteja se sentindo melhor. Desejo que seu dia seja leve e tranquilo, e que as coisas estejam caminhando de forma positiva para você.
 
-## Apostila bancada
+## Temos 4 aulas aulas hoje, paciência para nós. Em grupo, elabore, simule e monte na bancada este exemplo de projeto com CLP. Continue copiando o programa exemplo CADERNO!!!
 
-<a href=https://github.com/mchavesferreira/cri/blob/main/Apostila%20CLP140IF%20vs2.5br.pdf>Manual CLP</a>
+## Materiais
+
+<a href=http://www.icos.com.br/downloads/manual-clp-clic-02-weg.pdf>Manual Clic02 - WEG </a>
+
+<a href=https://github.com/mchavesferreira/cri/blob/main/Apostila%20CLP140IF%20vs2.5br.pdf>Manual da bancada CLP</a>
 
 ## Click02 - WEG
 
