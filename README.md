@@ -4,7 +4,7 @@
 
 ## Hoje, 12 de setembro,  monte na bancada o exemplo da semana passada: <a href=https://github.com/mchavesferreira/cri/blob/main/atividade_ladder.pdf>exemplo de projeto</a> com CLP, porém crie uma tela onde apareça o nome da empresa, e os valores de tempo  e peças de forma que possam ser alterados.
 
-<img src=img/ihmmonteleone.png>
+<img src=https://raw.githubusercontent.com/mchavesferreira/cri/main/img/ihmmoteleone.png>
 
 Após esta implementação, inclua telas que informem em texto as condições de ligado e desligado Valvulas e ventilador, separando em telas de H02, H03...
 
