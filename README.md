@@ -4,6 +4,8 @@
 
 ## Hoje, 12 de setembro,  monte na bancada o exemplo da semana passada: <a href=https://github.com/mchavesferreira/cri/blob/main/atividade_ladder.pdf>exemplo de projeto</a> com CLP, porém crie uma tela onde apareça o nome da empresa, e os valores de tempo  e peças de forma que possam ser alterados.
 
+<img src=imagens/ihm.jpg>
+
 ## Continue copiando o programa exemplo CADERNO!!!
 
 ## Materiais
