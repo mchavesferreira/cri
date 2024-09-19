@@ -2,8 +2,9 @@
 
 # Bom dia, Lorena.
 
-## Hoje, 19 de setembro,  monte na bancada o 
-## Continue copiando o programa exemplo CADERNO!!!
+## Hoje, 19 de setembro. Elabore o programa da seção exercíos
+
+## Continue copiando o programa resolvido no CADERNO!!!
 
 ## Materiais
 
@@ -155,7 +156,7 @@ c) quando a peça passar pelo sensor da caixa apropriada, finaliza o ciclo e a e
 
 d) a lâmpada liga enquanto o ciclo estiver em funcionamento. O botão "stop" finaliza o ciclo a qualquer instante. 
  
-<img src=imagens/clptamanho.png>
+<img src=img/clptamanho.png>
 
 ## 12/09/2024
 
