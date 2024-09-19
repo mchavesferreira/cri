@@ -2,12 +2,7 @@
 
 # Bom dia, Lorena.
 
-## Hoje, 12 de setembro,  monte na bancada o exemplo da semana passada: <a href=https://github.com/mchavesferreira/cri/blob/main/atividade_ladder.pdf>exemplo de projeto</a> com CLP, porém crie uma tela onde apareça o nome da empresa, e os valores de tempo  e peças de forma que possam ser alterados.
-
-<img src=https://raw.githubusercontent.com/mchavesferreira/cri/main/img/ihmmoteleone.png>
-
-Após esta implementação, inclua telas que informem em texto as condições de ligado e desligado Valvulas e ventilador, separando em telas de H02, H03...
-
+## Hoje, 19 de setembro,  monte na bancada o 
 ## Continue copiando o programa exemplo CADERNO!!!
 
 ## Materiais
@@ -144,6 +139,31 @@ Ramificações e links permitem que a lógica de controle complexa seja represen
 ## Conclusão
 
 No campo da programação de CLPs, ramificações e links em diagramas ladder são fundamentais. Elementos de link horizontais transmitem estados e links verticais permitem a ramificação, permitindo que a lógica complexa seja organizada e visualizada. Essa abordagem proporciona a capacidade de gerenciar múltiplas condições de uma vez, oferecendo flexibilidade e eficiência no design de sistemas de controle. Seja em ramificações paralelas ou condições aninhadas, o uso de ramificações e links simplifica a compreensão de circuitos complexos. A combinação desses elementos resulta em uma representação coerente e acessível, tornando a tarefa de projetar e solucionar problemas em controles elétricos mais intuitiva e eficaz.
+
+
+# Exercicios
+
+## 19/09/2024
+
+Em uma determinada indústria necessita de um sistema de separação de peças por tamanho.  Desenvolva o programa em linguagem Ladder” para um CLP, com as seguintes condições: 
+
+a) ao pressionar o botão "start", uma peça cai no meio da esteira e, após 2 segundos para estabilizar, os sensores S3 e S4 verificam a altura da peça; 
+
+b) se a peça for baixa (S3 acionado), aciona a esteira para um lado (Q2). Se a peça for alta (S3 e S4 acionados), aciona a esteira para outro lado (Q1); 
+
+c) quando a peça passar pelo sensor da caixa apropriada, finaliza o ciclo e a esteira para (dá condição para um novo ciclo); 
+
+d) a lâmpada liga enquanto o ciclo estiver em funcionamento. O botão "stop" finaliza o ciclo a qualquer instante. 
+ 
+<img src=imagens/clptamanho.png>
+
+## 12/09/2024
+
+Exercício: <a href=https://github.com/mchavesferreira/cri/blob/main/atividade_ladder.pdf>exemplo de projeto</a> com CLP, porém crie uma tela onde apareça o nome da empresa, e os valores de tempo  e peças de forma que possam ser alterados.
+
+<img src=https://raw.githubusercontent.com/mchavesferreira/cri/main/img/ihmmoteleone.png>
+
+Após esta implementação, inclua telas que informem em texto as condições de ligado e desligado Valvulas e ventilador, separando em telas de H02, H03...
 
 
 ## Links de auxilio
