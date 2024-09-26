@@ -2,7 +2,7 @@
 
 # Bom dia, Lorena.
 
-## Hoje, 19 de setembro. Elabore o programa da seção exercícios
+## Hoje, 26 de setembro. Elabore o programa da seção exercícios
 
 ## Continue copiando o programa resolvido no CADERNO!!!
 
@@ -143,6 +143,34 @@ No campo da programação de CLPs, ramificações e links em diagramas ladder s�
 
 
 # Exercícios
+
+# 26/09/2024
+
+1)	Uma empresa contratou você para fazer a programação de um novo equipamento adquirido. A máquina é uma selecionadora de peças (metálica e não metálica) e sua programação funciona da seguinte forma:
+
+•	Ao pressionar o botão de START a esteira M liga, assim deslocando a peça através da esteira;
+•	Os sensores S1 e S2 são utilizados para identificar o tipo de material, metálico ou não metálico.
+o	S1: sensor indutivo – detecção de material metálico
+o	S2: sensor capacitivo – detecção de material metálico e não metálico
+•	C1 e C2 são cilindros de simples ação;
+•	O compartimento 1 é utilizado para armazenar material metálico;
+•	O compartimento 2 é utilizado para armazenar material não metálico;
+•	Os sensores S3 e S4 são sensores ópticos utilizados para identificar o material que foi armazenado;
+•	O botão STOP para o processo, desligando a esteira e cilindros. 
+
+<img src=img/esteira.png>
+
+Desenvolva um programa em Ladder capaz de realizar tal tarefa.
+
+| Variável de entrada        | Endereço CLP |   | Variável de saída | Endereço CLP |
+|----------------------------|--------------|---|-------------------|--------------|
+| Botão START (push-button)   | I01          |   | Esteira M         | Q01          |
+| Botão STOP (push-button)    | I02          |   | C1                | Q02          |
+| S1                         | I03          |   | C2                | Q03          |
+| S2                         | I04          |   |                   |              |
+| S3                         | I05          |   |                   |              |
+| S4                         | I06          |   |                   |              |
+
 
 ## 19/09/2024
 
