@@ -2,7 +2,9 @@
 
 # Bom dia, Lorena.
 
-## Hoje, 26 de setembro. Elabore o programa da seção exercícios
+## Hoje, 03 de Outubro, "Que o mês das crianças nos lembre de nunca perder a magia de ser eternamente jovem de coração!"
+
+Confira na seção de exercícios a atividade para hoje.
 
 ## Continue copiando o programa resolvido no CADERNO!!!
 
@@ -143,6 +145,12 @@ No campo da programação de CLPs, ramificações e links em diagramas ladder s�
 
 
 # Exercícios
+
+# 03/10/2024
+
+Monte na banca o projeto da semana 26/09/2024, e apresente a resolução no caderno.
+
+
 
 # 26/09/2024
 
